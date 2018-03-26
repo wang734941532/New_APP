@@ -152,37 +152,29 @@
             <div class="clearfix"></div>
 
             <div class="row">
-              <div class="col-md-12">
+              <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="x_panel">
                   <div class="x_content">
                     <div class="row">
                       <div class="col-md-12 col-sm-12 col-xs-12 text-center">
                       	<form action="xx" name="b_search" id="b_search">
-             软件名称<input type="text"  style="border: 2px solid black; border-radius: 5px;"/> &nbsp; &nbsp; 
+             软件名称<input type="text"  style="border: 2px solid black; border-radius: 5px;width: 150px;height: 26px;"/> &nbsp; &nbsp; 
              
-     				APP状态<select name="app_state" id="app_state" style="border: 2px solid black;  border-radius: 5px;width: 180px;height: 26px;">
+     				APP状态<select name="app_state" id="app_state" style="border: 2px solid black;  border-radius: 5px;width: 150px;height: 26px;">
      						<option>--请选择--</option>
      					<option>1</option>
      						<option>1</option>
      							<option>1</option>
      				</select>&nbsp; &nbsp; 
      				
-            所属平台<select name="platform" id="platform" style="border: 2px solid black;  border-radius: 5px;width: 180px;height: 26px;">
+            所属平台<select name="platform" id="platform" style="border: 2px solid black;  border-radius: 5px;width: 150px;height: 26px;">
      						<option>--请选择--</option>
      					<option>1</option>
      						<option>1</option>
      							<option>1</option>
      				</select>&nbsp; &nbsp; 
      				
-         		一级分类<select name="sort1" id="sort1" style="border: 2px solid black;  border-radius: 5px;width: 180px;height: 26px;">
-     						<option>--请选择--</option>
-     					<option>1</option>
-     						<option>1</option>
-     							<option>1</option>
-     				</select>&nbsp; &nbsp; 
-     				
-     				
-    				二级分类<select name="sort2" id="sort2" style="border: 2px solid black;  border-radius: 5px;width: 180px;height: 26px;">
+         		一级分类<select name="sort1" id="sort1" style="border: 2px solid black;  border-radius: 5px;width: 150px;height: 26px;">
      						<option>--请选择--</option>
      					<option>1</option>
      						<option>1</option>
@@ -190,7 +182,15 @@
      				</select>&nbsp; &nbsp; 
      				
      				
-   					  三级分类<select name="sort3" id="sort3" style="border: 2px solid black;  border-radius: 5px;width: 180px;height: 26px;">
+    				二级分类<select name="sort2" id="sort2" style="border: 2px solid black;  border-radius: 5px;width: 150px;height: 26px;">
+     						<option>--请选择--</option>
+     					<option>1</option>
+     						<option>1</option>
+     							<option>1</option>
+     				</select>&nbsp; &nbsp; 
+     				
+     				
+   					  三级分类<select name="sort3" id="sort3" style="border: 2px solid black;  border-radius: 5px;width: 150px;height: 26px;">
      						<option>--请选择--</option>
      					<option>1</option>
      						<option>1</option>
